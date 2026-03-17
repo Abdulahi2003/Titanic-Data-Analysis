@@ -38,3 +38,5 @@ This project analyzes the Titanic dataset to understand what factors affected pa
 * `data/` → cleaned dataset (Excel file)
 * `images/` → dashboard screenshot
 
+## Why This Project Matters
+This project demonstrates an end-to-end data analysis workflow: data extraction (SQL), cleaning and feature engineering (Python), and interactive visualization (Tableau). These are key skills for entry-level data analyst roles.
