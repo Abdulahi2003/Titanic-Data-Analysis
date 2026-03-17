@@ -29,6 +29,7 @@ This project analyzes the Titanic dataset to understand what factors affected pa
 
 ## Tableau Dashboard
 
+![Dashboard](images/TitanicDashboard.png)
 (https://public.tableau.com/views/TitanicI_TableauDashboard_17737541737700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Files
